@@ -1,7 +1,11 @@
-I'm a multi-disciplinary creative based in the DMV with my partner and [precious long bean](https://www.marcusrelacion.com).
+# 👋🏾 Hey, I'm Marcus [he/him]
 
-Currently, I'm a Senior Product Designer focused on building accessible and inclusive design systems, websites, and software. When I'm not building, I'm a [photographer](https://photos.marcusrelacion.com) who enjoys capturing moments while commuting, at live events, and in nature.
+I'm a multi-disciplinary creative living in the DM[V] with my partner Kae and our kitkat [Hana](/hana/).
 
-Feel free to check out what I’m currently [getting into](https://www.marcusrelacion.com/now).
+By day, I'm a product designer that codes and combines these disciplines to build accessible and inclusive design systems, websites, and software.
 
-Thanks for stopping by!
+When off the clock, I enjoy spending my time [documenting everyday life, live events and sports](/photos/), [spending entirely too much time (trying) to keep my team alive](https://playoverwatch.com/en-us/heroes/ana/), looking for new recipes to cook, and going on hikes.
+
+If you're interested, you can view what I'm currently [focused on](/now/).
+
+Thank you for stopping by! ✨
